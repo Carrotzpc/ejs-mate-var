@@ -1,7 +1,7 @@
-# ejs-mate
+# ejs-mate-var
 
 ## About
-
+###  change ejs to ejs-var, ejs-var add dynamic include (from variable).
 Express 4.x `layout`, `partial` and `block` template functions for the EJS template engine.
 
 Previously also offered `include` but you should use EJS 1.0.x's own directive for that now.
