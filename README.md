@@ -1,7 +1,7 @@
 # ejs-mate-var
 
-## About
-###  change ejs to ejs-var, ejs-var add dynamic include (from variable).
+## About change ejs 1.0.0 to 2.3.1
+
 Express 4.x `layout`, `partial` and `block` template functions for the EJS template engine.
 
 Previously also offered `include` but you should use EJS 1.0.x's own directive for that now.
@@ -9,7 +9,7 @@ Previously also offered `include` but you should use EJS 1.0.x's own directive f
 ## Installation
 
 ```bash
-$ npm install ejs-mate --save
+$ npm install ejs-mate-var --save
 ```
 
 (`--save` automatically writes to your `package.json` file, tell your friends)

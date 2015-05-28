@@ -6,7 +6,7 @@
     "Tom Carden <tom@tom-carden.co.uk>"
   ],
   "name": "ejs-mate-var",
-  "description": "Express 4.x locals for layout, partial, change ejs to ejs-var",
+  "description": "Express 4.x locals for layout, partial, change ejs 1.0.0 to 2.3.1",
   "version": "1.0.0",
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
-    "ejs-var": "1.0.0"
+    "ejs": "2.3.1"
   },
   "devDependencies": {
     "express": "~3.0.0",
