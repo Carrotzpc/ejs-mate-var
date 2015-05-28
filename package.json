@@ -7,7 +7,7 @@
   ],
   "name": "ejs-mate-var",
   "description": "Express 4.x locals for layout, partial, change ejs 1.0.0 to 2.3.1",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/Carrotzpc/ejs-mate-var.git"
